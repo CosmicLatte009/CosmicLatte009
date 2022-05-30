@@ -7,7 +7,7 @@
   ---
 
   
-### ✅ Studying   ✅
+### ✅ Studying FrontEnd✅
 <br/>
 
 <center> <img alt="HTML" src ="https://img.shields.io/badge/HTML-E34F26.svg?&style=flat-square&logo=HTML5&logoColor=white"/> </center>
