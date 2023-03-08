@@ -15,6 +15,7 @@
 <img alt="Sass" src ="https://img.shields.io/badge/Sass-CC6699.svg?&style=flat-square&logo=Sass&logoColor=white"/>
 <img alt="Tailwind" src ="https://img.shields.io/badge/Tailwind-06B6D4.svg?&style=flat-square&logo=Tailwind-Css&logoColor=white"/>
 <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=white"/>
+  <img alt="JavaScript" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=flat-square&logo=React&logoColor=white"/>
   
 <br/>
 <br/>
