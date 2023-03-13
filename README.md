@@ -3,7 +3,6 @@
 #### Hi there 👋
 ### I'm HyeMyoung Hwang
 
-  
   ---
 
   
@@ -22,4 +21,8 @@
   
 [![CosmicLatte's GitHub stats](https://github-readme-stats.vercel.app/api?username=CosmicLatte009)](https://github.com/CosmicLatte009/github-readme-stats)
 
+👉 Visit my [Blog](https://cosmiclatte-next-blog.vercel.app/) 
+
 </div>
+
+
