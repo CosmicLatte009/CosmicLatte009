@@ -31,12 +31,5 @@
 [![CosmicLatte's GitHub stats](https://github-readme-stats.vercel.app/api?username=CosmicLatte009)](https://github.com/CosmicLatte009/github-readme-stats)
 
 🚧이사중인 블로그!🚧
-<br/>
-[JavaScript 비동기 포스팅](https://zrr.kr/yfz1) 
-<br/>
-[전개구문과 구조분해, rest parameter 문법 비교 포스팅](https://zrr.kr/Inkb)
-<br/>
-[flutter 캠프 과제 포스팅](https://zrr.kr/9I8M)
-</div>
-
+[개발 뚝딱이 블로그](https://cosmiclatte009.github.io/blog/)
 
