@@ -30,6 +30,3 @@
   
 [![CosmicLatte's GitHub stats](https://github-readme-stats.vercel.app/api?username=CosmicLatte009)](https://github.com/CosmicLatte009/github-readme-stats)
 
-🚧이사중인 블로그!🚧
-[개발 뚝딱이 블로그](https://cosmiclatte009.github.io/blog/)
-
